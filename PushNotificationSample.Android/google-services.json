@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "621375564734",
+    "firebase_url": "https://smdevapp-9aba2.firebaseio.com",
+    "project_id": "smdevapp-9aba2",
+    "storage_bucket": "smdevapp-9aba2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621375564734:android:f1e4202cf658e269",
+        "android_client_info": {
+          "package_name": "com.sm_service.m_fond"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "621375564734-r03q9pbkbu45uti3kin2vic1canetftd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALaBuyY4jWB3sZqSqciKTM6eOwLqQg47s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "621375564734-r03q9pbkbu45uti3kin2vic1canetftd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "621375564734-afr1n7215lrjd85su1s28917jr63464s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.SMService.MFondApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

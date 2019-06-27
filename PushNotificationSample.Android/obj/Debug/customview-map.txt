@@ -1,0 +1,41 @@
+@string/appbar_scrolling_view_behavior;/Volumes/Macintosh HD/Git/ExampleUsePluginPushNotification/PushNotificationSample.Android/obj/Debug/lp/49/jl/res/layout/flyoutcontent.xml
+@string/appbar_scrolling_view_behavior;/Volumes/Macintosh HD/Git/ExampleUsePluginPushNotification/PushNotificationSample.Android/obj/Debug/lp/49/jl/res/layout/rootlayout.xml
+@string/appbar_scrolling_view_behavior;/Volumes/Macintosh HD/Git/ExampleUsePluginPushNotification/PushNotificationSample.Android/obj/Debug/lp/49/jl/res/layout/shellcontent.xml
+alpha;/Volumes/Macintosh HD/Git/ExampleUsePluginPushNotification/PushNotificationSample.Android/obj/Debug/lp/49/jl/res/anim/enterfromleft.xml
+alpha;/Volumes/Macintosh HD/Git/ExampleUsePluginPushNotification/PushNotificationSample.Android/obj/Debug/lp/49/jl/res/anim/exittoleft.xml
+android.support.design.widget.AppBarLayout;/Volumes/Macintosh HD/Git/ExampleUsePluginPushNotification/PushNotificationSample.Android/obj/Debug/lp/49/jl/res/layout/flyoutcontent.xml
+android.support.design.widget.AppBarLayout;/Volumes/Macintosh HD/Git/ExampleUsePluginPushNotification/PushNotificationSample.Android/obj/Debug/lp/49/jl/res/layout/rootlayout.xml
+android.support.design.widget.AppBarLayout;/Volumes/Macintosh HD/Git/ExampleUsePluginPushNotification/PushNotificationSample.Android/obj/Debug/lp/49/jl/res/layout/shellcontent.xml
+android.support.design.widget.BottomNavigationView;/Volumes/Macintosh HD/Git/ExampleUsePluginPushNotification/PushNotificationSample.Android/obj/Debug/lp/49/jl/res/layout/bottomtablayout.xml
+android.support.design.widget.CoordinatorLayout;/Volumes/Macintosh HD/Git/ExampleUsePluginPushNotification/PushNotificationSample.Android/obj/Debug/lp/49/jl/res/layout/flyoutcontent.xml
+android.support.design.widget.CoordinatorLayout;/Volumes/Macintosh HD/Git/ExampleUsePluginPushNotification/PushNotificationSample.Android/obj/Debug/lp/49/jl/res/layout/rootlayout.xml
+android.support.design.widget.CoordinatorLayout;/Volumes/Macintosh HD/Git/ExampleUsePluginPushNotification/PushNotificationSample.Android/obj/Debug/lp/49/jl/res/layout/shellcontent.xml
+android.support.design.widget.TabLayout;/Volumes/Macintosh HD/Git/ExampleUsePluginPushNotification/PushNotificationSample.Android/obj/Debug/lp/49/jl/res/layout/rootlayout.xml
+android.support.design.widget.TabLayout;obj/Debug/res/layout/tabbar.xml
+android.support.v4.widget.NestedScrollView;/Volumes/Macintosh HD/Git/ExampleUsePluginPushNotification/PushNotificationSample.Android/obj/Debug/lp/49/jl/res/layout/rootlayout.xml
+android.support.v4.widget.NestedScrollView;/Volumes/Macintosh HD/Git/ExampleUsePluginPushNotification/PushNotificationSample.Android/obj/Debug/lp/49/jl/res/layout/shellcontent.xml
+android.support.v7.widget.RecyclerView;/Volumes/Macintosh HD/Git/ExampleUsePluginPushNotification/PushNotificationSample.Android/obj/Debug/lp/49/jl/res/layout/flyoutcontent.xml
+android.support.v7.widget.Toolbar;/Volumes/Macintosh HD/Git/ExampleUsePluginPushNotification/PushNotificationSample.Android/obj/Debug/lp/49/jl/res/layout/rootlayout.xml
+android.support.v7.widget.Toolbar;/Volumes/Macintosh HD/Git/ExampleUsePluginPushNotification/PushNotificationSample.Android/obj/Debug/lp/49/jl/res/layout/shellcontent.xml
+android.support.v7.widget.Toolbar;obj/Debug/res/layout/toolbar.xml
+bitmap;obj/Debug/res/drawable/splash_screen.xml
+color;obj/Debug/res/drawable/splash_screen.xml
+color;obj/Debug/res/values/colors.xml
+FrameLayout;/Volumes/Macintosh HD/Git/ExampleUsePluginPushNotification/PushNotificationSample.Android/obj/Debug/lp/49/jl/res/layout/bottomtablayout.xml
+item;obj/Debug/res/drawable/splash_screen.xml
+item;obj/Debug/res/values/styles.xml
+layer-list;obj/Debug/res/drawable/splash_screen.xml
+LinearLayout;/Volumes/Macintosh HD/Git/ExampleUsePluginPushNotification/PushNotificationSample.Android/obj/Debug/lp/49/jl/res/layout/bottomtablayout.xml
+resources;/Volumes/Macintosh HD/Git/ExampleUsePluginPushNotification/PushNotificationSample.Android/obj/Debug/googsvcsjson/values/goog_svcs_json.xml
+resources;obj/Debug/res/values/colors.xml
+resources;obj/Debug/res/values/styles.xml
+set;/Volumes/Macintosh HD/Git/ExampleUsePluginPushNotification/PushNotificationSample.Android/obj/Debug/lp/49/jl/res/anim/enterfromleft.xml
+set;/Volumes/Macintosh HD/Git/ExampleUsePluginPushNotification/PushNotificationSample.Android/obj/Debug/lp/49/jl/res/anim/enterfromright.xml
+set;/Volumes/Macintosh HD/Git/ExampleUsePluginPushNotification/PushNotificationSample.Android/obj/Debug/lp/49/jl/res/anim/exittoleft.xml
+set;/Volumes/Macintosh HD/Git/ExampleUsePluginPushNotification/PushNotificationSample.Android/obj/Debug/lp/49/jl/res/anim/exittoright.xml
+string;/Volumes/Macintosh HD/Git/ExampleUsePluginPushNotification/PushNotificationSample.Android/obj/Debug/googsvcsjson/values/goog_svcs_json.xml
+style;obj/Debug/res/values/styles.xml
+translate;/Volumes/Macintosh HD/Git/ExampleUsePluginPushNotification/PushNotificationSample.Android/obj/Debug/lp/49/jl/res/anim/enterfromleft.xml
+translate;/Volumes/Macintosh HD/Git/ExampleUsePluginPushNotification/PushNotificationSample.Android/obj/Debug/lp/49/jl/res/anim/enterfromright.xml
+translate;/Volumes/Macintosh HD/Git/ExampleUsePluginPushNotification/PushNotificationSample.Android/obj/Debug/lp/49/jl/res/anim/exittoleft.xml
+translate;/Volumes/Macintosh HD/Git/ExampleUsePluginPushNotification/PushNotificationSample.Android/obj/Debug/lp/49/jl/res/anim/exittoright.xml

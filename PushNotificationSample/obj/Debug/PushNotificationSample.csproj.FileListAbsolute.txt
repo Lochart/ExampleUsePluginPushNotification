@@ -1,0 +1,44 @@
+/Users/dante/Downloads/PushNotificationPlugin-master/samples/PushNotificationSample/PushNotificationSample/bin/Debug/PushNotificationSample.dll
+/Users/dante/Downloads/PushNotificationPlugin-master/samples/PushNotificationSample/PushNotificationSample/bin/Debug/PushNotificationSample.pdb
+/Users/dante/Downloads/PushNotificationPlugin-master/samples/PushNotificationSample/PushNotificationSample/bin/Debug/Plugin.PushNotification.Abstractions.dll
+/Users/dante/Downloads/PushNotificationPlugin-master/samples/PushNotificationSample/PushNotificationSample/bin/Debug/Plugin.PushNotification.dll
+/Users/dante/Downloads/PushNotificationPlugin-master/samples/PushNotificationSample/PushNotificationSample/bin/Debug/Xamarin.Forms.Core.dll
+/Users/dante/Downloads/PushNotificationPlugin-master/samples/PushNotificationSample/PushNotificationSample/bin/Debug/Xamarin.Forms.Platform.dll
+/Users/dante/Downloads/PushNotificationPlugin-master/samples/PushNotificationSample/PushNotificationSample/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/dante/Downloads/PushNotificationPlugin-master/samples/PushNotificationSample/PushNotificationSample/bin/Debug/Plugin.PushNotification.xml
+/Users/dante/Downloads/PushNotificationPlugin-master/samples/PushNotificationSample/PushNotificationSample/bin/Debug/Plugin.PushNotification.Abstractions.pdb
+/Users/dante/Downloads/PushNotificationPlugin-master/samples/PushNotificationSample/PushNotificationSample/bin/Debug/Plugin.PushNotification.Abstractions.xml
+/Users/dante/Downloads/PushNotificationPlugin-master/samples/PushNotificationSample/PushNotificationSample/bin/Debug/Xamarin.Forms.Core.pdb
+/Users/dante/Downloads/PushNotificationPlugin-master/samples/PushNotificationSample/PushNotificationSample/bin/Debug/Xamarin.Forms.Core.xml
+/Users/dante/Downloads/PushNotificationPlugin-master/samples/PushNotificationSample/PushNotificationSample/bin/Debug/Xamarin.Forms.Xaml.pdb
+/Users/dante/Downloads/PushNotificationPlugin-master/samples/PushNotificationSample/PushNotificationSample/bin/Debug/Xamarin.Forms.Xaml.xml
+/Users/dante/Downloads/PushNotificationPlugin-master/samples/PushNotificationSample/PushNotificationSample/obj/Debug/MainPage.xaml.g.cs
+/Users/dante/Downloads/PushNotificationPlugin-master/samples/PushNotificationSample/PushNotificationSample/obj/Debug/App.xaml.g.cs
+/Users/dante/Downloads/PushNotificationPlugin-master/samples/PushNotificationSample/PushNotificationSample/obj/Debug/PushNotificationSample.csproj.CoreCompileInputs.cache
+/Users/dante/Downloads/PushNotificationPlugin-master/samples/PushNotificationSample/PushNotificationSample/obj/Debug/XamlC.stamp
+/Users/dante/Downloads/PushNotificationPlugin-master/samples/PushNotificationSample/PushNotificationSample/obj/Debug/PushNotificationSample.csproj.CopyComplete
+/Users/dante/Downloads/PushNotificationPlugin-master/samples/PushNotificationSample/PushNotificationSample/obj/Debug/PushNotificationSample.dll
+/Users/dante/Downloads/PushNotificationPlugin-master/samples/PushNotificationSample/PushNotificationSample/obj/Debug/PushNotificationSample.pdb
+/Users/dante/Downloads/PushNotificationPlugin-master/samples/PushNotificationSample/PushNotificationSample/obj/Debug/PushNotificationSample.csprojAssemblyReference.cache
+/Volumes/Macintosh HD/Git/ExampleUsePluginPushNotification/PushNotificationSample/bin/Debug/PushNotificationSample.dll
+/Volumes/Macintosh HD/Git/ExampleUsePluginPushNotification/PushNotificationSample/bin/Debug/PushNotificationSample.pdb
+/Volumes/Macintosh HD/Git/ExampleUsePluginPushNotification/PushNotificationSample/bin/Debug/Plugin.PushNotification.Abstractions.dll
+/Volumes/Macintosh HD/Git/ExampleUsePluginPushNotification/PushNotificationSample/bin/Debug/Plugin.PushNotification.dll
+/Volumes/Macintosh HD/Git/ExampleUsePluginPushNotification/PushNotificationSample/bin/Debug/Xamarin.Forms.Core.dll
+/Volumes/Macintosh HD/Git/ExampleUsePluginPushNotification/PushNotificationSample/bin/Debug/Xamarin.Forms.Platform.dll
+/Volumes/Macintosh HD/Git/ExampleUsePluginPushNotification/PushNotificationSample/bin/Debug/Xamarin.Forms.Xaml.dll
+/Volumes/Macintosh HD/Git/ExampleUsePluginPushNotification/PushNotificationSample/bin/Debug/Plugin.PushNotification.xml
+/Volumes/Macintosh HD/Git/ExampleUsePluginPushNotification/PushNotificationSample/bin/Debug/Plugin.PushNotification.Abstractions.pdb
+/Volumes/Macintosh HD/Git/ExampleUsePluginPushNotification/PushNotificationSample/bin/Debug/Plugin.PushNotification.Abstractions.xml
+/Volumes/Macintosh HD/Git/ExampleUsePluginPushNotification/PushNotificationSample/bin/Debug/Xamarin.Forms.Core.pdb
+/Volumes/Macintosh HD/Git/ExampleUsePluginPushNotification/PushNotificationSample/bin/Debug/Xamarin.Forms.Core.xml
+/Volumes/Macintosh HD/Git/ExampleUsePluginPushNotification/PushNotificationSample/bin/Debug/Xamarin.Forms.Xaml.pdb
+/Volumes/Macintosh HD/Git/ExampleUsePluginPushNotification/PushNotificationSample/bin/Debug/Xamarin.Forms.Xaml.xml
+/Volumes/Macintosh HD/Git/ExampleUsePluginPushNotification/PushNotificationSample/obj/Debug/PushNotificationSample.csprojAssemblyReference.cache
+/Volumes/Macintosh HD/Git/ExampleUsePluginPushNotification/PushNotificationSample/obj/Debug/MainPage.xaml.g.cs
+/Volumes/Macintosh HD/Git/ExampleUsePluginPushNotification/PushNotificationSample/obj/Debug/App.xaml.g.cs
+/Volumes/Macintosh HD/Git/ExampleUsePluginPushNotification/PushNotificationSample/obj/Debug/PushNotificationSample.csproj.CoreCompileInputs.cache
+/Volumes/Macintosh HD/Git/ExampleUsePluginPushNotification/PushNotificationSample/obj/Debug/XamlC.stamp
+/Volumes/Macintosh HD/Git/ExampleUsePluginPushNotification/PushNotificationSample/obj/Debug/PushNotificationSample.csproj.CopyComplete
+/Volumes/Macintosh HD/Git/ExampleUsePluginPushNotification/PushNotificationSample/obj/Debug/PushNotificationSample.dll
+/Volumes/Macintosh HD/Git/ExampleUsePluginPushNotification/PushNotificationSample/obj/Debug/PushNotificationSample.pdb
